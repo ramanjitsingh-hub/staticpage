@@ -11,7 +11,6 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 
 // Our custom button component
-import SliderButtons from "../../assets/IMG_2608.jpg";
 
 interface Slide {
   id: number;
